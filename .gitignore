@@ -2,3 +2,4 @@ __pycache__/
 .~lock.rabbit_diseases.xls#
 htmlcov/
 .vscode/
+.env
